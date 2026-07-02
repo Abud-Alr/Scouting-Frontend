@@ -5,7 +5,7 @@
   --color-scouting-blue: #1A368D;
   --color-scouting-yellow: #FFFF00;
   --color-scouting-green: #31A529;
-  
+
   --font-sans: "Arial", "Inter", sans-serif;
   --font-heading: "Impact", "Arial Black", sans-serif;
 }
@@ -16,7 +16,12 @@ body {
   color: #1f2937;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--font-heading);
 }
 
